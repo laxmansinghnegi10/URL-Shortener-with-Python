@@ -1,4 +1,4 @@
-# URL-Shortener-with-Python
+# URL-Shortener-system-using-Python
 This Python script shortens a given URL using the pyshorteners library, which provides an interface to various URL shortening services.
 
 
